@@ -1,5 +1,5 @@
-# 💫 About Me:
-👋 Hi, I’m AMAN.<br>👀 I’m interested in Android & IOS Development.<br>💞️ I’m looking to collaborate on Application Development projects.<br>💬 Ask me about FLUTTER & DART.<br>📫 How to reach me Mail on: amanxmhd@gmail.com<br>⚡ People don't care about what you say, they care about what you build. - Mark Zuckerberg
+About Me:
+👋 Hi, I’m AMAN.<br>👀 I’m interested in Android & IOS Development📱.<br>💞️ I’m looking to collaborate on Application Development projects.<br>💬 Ask me about FLUTTER & DART.<br>📫 How to reach me Mail on: amanxmhd@gmail.com<br>⚡ People don't care about what you say, they care about what you build. - Mark Zuckerberg
 
 
 ## 🌐 Socials:
